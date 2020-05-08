@@ -3,7 +3,6 @@
 #include<vector>
 using namespace std;
 
-int main(){
 	int n,k;
 	vector<int> arr;
 	scanf("%d %d",&n,&k);
